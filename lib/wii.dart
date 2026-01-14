@@ -3,7 +3,7 @@ class wii {
   static const int lanzamiento = 2026;
   static const String autor = '@wilder.taype';
   static const String link = 'https://wtaype.github.io/';
-  static const String version = 'V.10.1.1';
+  static const String version = 'v10.1.1';
 }
 
 /** Actualizar main luego esto, pero si es mucho, solo esto. (1)
